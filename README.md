@@ -1,0 +1,1 @@
+Quickly filter jobs by certain criteria based on full-text search.
